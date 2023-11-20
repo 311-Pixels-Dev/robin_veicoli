@@ -2,7 +2,7 @@ import User from "./models/User";
 import Car from "./models/Car";
 import Moto from "./models/Moto";
 import Veicolo from "./models/Veicolo";
-import usePrompt = require('prompt-sync');
+import usePrompt from "prompt-sync";
 
 const prompt = usePrompt();
 
